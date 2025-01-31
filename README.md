@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Mohamed!
 
-🚀 **Aspiring Backend Developer | Lifelong Learner | Tech Enthusiast**
+🚀 **Aspiring Software Developer | Lifelong Learner | Tech Enthusiast**
 
 I'm a passionate and curious developer continuously learning and building projects to break into tech. With a strong foundation in **Java, Spring Boot, SQL, and software testing**, I am dedicated to expanding my knowledge, refining my skills, and gaining hands-on experience through real-world projects.
 
